@@ -2,6 +2,9 @@
 
 Proyecto desarrollado con el framework Django donde se puede gestionar la parte académica de una universidad por medio del panel de administración que nos ofrece este framework 
 
+Referencias: https://www.youtube.com/watch?v=10_PpcLRaHk
+
+
 1. Panel inicial
 ![first](https://github.com/NorbeyCollazos/Gestion_academica_universidad_Django/blob/master/imagenes/panel-inicial.PNG?raw=true)
 
